@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.17.0)
+cmake_minimum_required(VERSION 3.13.5)
 project(tomlcpp LANGUAGES C CXX)
 
 add_library(tomlcpp tomlcpp.cpp toml.c)
